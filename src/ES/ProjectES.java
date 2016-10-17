@@ -1,8 +1,8 @@
 package ES;
 
 public class ProjectES {
-	public static void main (String args[]){
-		
+	double contador = 10.0;
+	for(int i = 0; i<contador; i++){
+		System.out.println(i);
 	}
-
 }
